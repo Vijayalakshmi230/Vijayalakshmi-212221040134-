@@ -1,48 +1,49 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## STREAMLINED NETWORKING INTEGRATION
+The Streamlined Networking Integration project is a modular system for diagnosing and resolving network issues efficiently. It includes an AI-powered chatbot, troubleshooting modules, and performance monitoring tools for enhanced user experience. Built with Python (Flask), HTML & CSS and integrated hardware, it ensures accurate and scalable network management.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Your project, **Streamlined Networking Integration**, is a **network troubleshooting system** designed to diagnose and resolve various **network issues** efficiently. Each network problem is treated as a **separate module**, covering issues like **DNS misconfiguration, IP routing anomalies, packet loss, and network performance monitoring**. The system integrates an **AI-powered chatbot**, similar to GPT, to help users understand and resolve network problems in real time. Additional features include a **library for saved modules, a history panel for tracking past diagnostics, notifications for updates, and customizable settings**.The project is developed using **Python (Flask) for backend processing, HTML & CSS for UI**, with hardware integration such as the **Alpha WiFi adapter** for network analysis. It is a **single-account system** with two user types: **Network Engineer and General User**. The project aims to provide **an intelligent, user-friendly, and scalable solution** for network management and troubleshooting. 
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
+
+- Modular Network Issue Diagnosis.
+- Scalable and Future-Ready
 - High scalability.
 - Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- A specific scope of Chatbot response model.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+* Operating System: Compatible with Windows, Linux, and macOS.
+* Development Environment: The Streamlined Networking Integration project uses Python (Flask) for backend and HTML & CSS for UI, developed in VS Code or PyCharm. It supports Windows, Linux, and macOS, with Flask, 
+   OS module, and subprocess for system interactions. Git and GitHub manage version control, Postman is used for API testing, and the Alpha WiFi adapter aids in network diagnostics.
+* Hardware Components: Requires an Alpha WiFi adapter for network diagnostics.
+* Operating System: Compatible with Windows, Linux, and macOS.
+* AI-Powered Chatbot: Integrates a GPT-like chatbot for troubleshooting assistance.
+* Network Analysis Tools: Supports Ping, Traceroute, and SolarWinds NPM.
+* User Interface & Features: Includes library, history panel, notifications, and settings.
+* Internet Connectivity: Requires a stable internet connection for real-time analysis.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+![image](https://github.com/user-attachments/assets/00badade-66d2-4614-915e-712946a20339)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output1 - HomePage
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![image](https://github.com/user-attachments/assets/4461c63c-6194-46a3-ab2c-5ebe2d0ad265)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Module Page
 
+![image](https://github.com/user-attachments/assets/a555d2a4-0284-4a30-a914-98dd7536026d)
+
+#### Output3 - ChatBot
+
+![image](https://github.com/user-attachments/assets/8c58d89a-a712-489a-8eaf-018a1cacb2e9)
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->

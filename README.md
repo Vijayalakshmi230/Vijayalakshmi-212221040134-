@@ -47,9 +47,8 @@ Your project, **Streamlined Networking Integration**, is a **network troubleshoo
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Streamlined Networking Integration project enhances network troubleshooting efficiency by automating issue detection and resolution. The AI-powered chatbot improves user understanding by providing real-time explanations and solutions. Features like saved modules, history tracking, and notifications ensure a seamless and user-friendly experience. The integration of network analysis tools and the Alpha WiFi adapter boosts diagnostic accuracy, reducing downtime. Overall, the system streamlines network management, making it faster, more accessible, and highly effective for both network engineers and general users.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
 

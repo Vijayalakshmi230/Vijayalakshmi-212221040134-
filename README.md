@@ -52,8 +52,15 @@ The Sign Language Detection System enhances accessibility for individuals with h
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
+[1]	C. Cérin, C. Coti, P. Delort, F. Diaz, M. Gagnaire, Q. Gaumer, N. Guillaume, J. Lous, S. Lubiarz, J. Raffaelli et al., "Downtime statistics of the current cloud solutions", International Working Group on Cloud Computing Resiliency Tech. Rep, 2013..
+
+[2]	G. Gheorghe, T. Avanesov, M.-R. Palattella, T. Engel and C. Popoviciu, "Sdn-radar: Network troubleshooting combining user experience and sdn capabilities", Network Softwarization (NetSoft) 2015 1st IEEE Conference on. IEEE, pp. 1-5, 2015.
+
+[3]	H. Zeng, P. Kazemian, G. Varghese and N. McKeown, "A survey on network troubleshooting", Technical Report Stanford/TR12-HPNG-061012 Stanford University Tech. Rep., 2012.
+
+[4]	A. Dhamdhere, R. Teixeira, C. Dovrolis and C. Diot, "Netdiagnoser: Troubleshooting network unreachabilities using end-to-end probes and routing data", Proceedings of the 2007 ACM CoNEXT conference. ACM, pp. 18, 2007.
+
 
 
 
